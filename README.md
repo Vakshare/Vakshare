@@ -6,9 +6,8 @@
 - Matematyki 🤔
 
 ## 🌱 Moje projekty
-https://github.com/Vakshare/wdi.git
-- [Projekt 1](https://github.com/Vakshare/wdi.git):
-- [Projekt 2](https://github.com/2024-2025-AGH-Wstep-do-Informatyki/Calculus-Survivor.git):
+- Projekt 1(https://github.com/Vakshare/wdi.git):
+- Projekt 2(https://github.com/2024-2025-AGH-Wstep-do-Informatyki/Calculus-Survivor.git):
 
 ## 🏆 Osiągnięcia
 - Olimpiada przedmiotowa: [Polteleinfo] - [Laureat]
