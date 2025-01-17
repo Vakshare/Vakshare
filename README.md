@@ -21,8 +21,8 @@
 - 🎮 W wolnym czasie gram szachy i tft
 
 ## Ciekawy projekt znaleziony na Papers with Code
--[Git Hub](https://github.com/Vakshare/3DIS.git)
--[Strona Internetowa](https://paperswithcode.com/paper/3dis-flux-simple-and-efficient-multi-instance#code)
+- [Git Hub](https://github.com/Vakshare/3DIS.git)
+- [Strona Internetowa](https://paperswithcode.com/paper/3dis-flux-simple-and-efficient-multi-instance#code)
 
 ## Moje zainteresowania
 - [Zobacz na mojej stronie](https://vakshare.github.io)
