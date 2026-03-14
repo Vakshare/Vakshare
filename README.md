@@ -6,7 +6,7 @@
 - Technologii wykorzystwynych w Cyberbezpieczeńswie 
 
 ## 🌱 Projekty, przy których brałem udział
-- [Blockchain](https://github.com/mgumiela/Custom-Blochain-Implementation))
+- [Blockchain](https://github.com/mgumiela/Custom-Blochain-Implementation)
 - [SIEM](https://github.com/mgumiela/miniSIEM-project)
 
 ## 🏆 Osiągnięcia
