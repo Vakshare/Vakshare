@@ -1,33 +1,34 @@
-## Cześć! Jestem Bartek, studiuję na AGH. Oto kilka informacji o mnie:
+## Cześć! Nazywam Bartek, jestem studentem cyberbezpieczeńswa na AGH. Oto kilka słów o mnie:
 
 ## 📚 Aktualnie uczę się
 - Wykorzystania sztucznej inteligencji
 - Programowania Python, C, C++
-- Matematyki 🤔
+- Technologii wykorzystwynych w Cyberbezpieczeńswie 
 
-## 🌱 Moje projekty
-- [Projekt 1](https://github.com/Vakshare/wdi.git)
-- [Projekt 2](https://github.com/2024-2025-AGH-Wstep-do-Informatyki/Calculus-Survivor.git)
+## 🌱 Projekty, przy których brałem udział
+- [Blockchain]([https://github.com/Vakshare/wdi.git](https://github.com/mgumiela/Custom-Blochain-Implementation))
+- [SIEM]([https://github.com/2024-2025-AGH-Wstep-do-Informatyki/Calculus-Survivor.git](https://github.com/mgumiela/miniSIEM-project))
 
 ## 🏆 Osiągnięcia
-- Olimpiada przedmiotowa: [Polteleinfo] - [Laureat]
-- Certyfikaty: [CCNA 1/3]
+- Olimpiada przedmiotowa: Polteleinfo - [Laureat]
 
 ## 📫 Kontakt
 - **E-mail**: [bartosz.lukasik350@gmail.com](mailto:bartosz.lukasik350@gmailcom)
 
-## ✨ Ciekawostki
-- 🌍 Uwielbiam podróże, góry i wspinaczkę
-- 🎮 W wolnym czasie gram szachy i tft
+## ✨ Zainteresowania
+- ❓ OSINT
+- 🔒 Kryptografia
+- 📡 Sieci
+- 🌍 Podróże
+- 🗻 Alpinizm
+- 🧗 Wspinaczka
+- 🎮 Gierki 
 
-## Ciekawy projekt znaleziony na Papers with Code
-- [Git Hub](https://github.com/Vakshare/3DIS.git)
-- [Strona Internetowa](https://paperswithcode.com/paper/3dis-flux-simple-and-efficient-multi-instance#code)
-
-## Moje zainteresowania
-- [Zobacz na mojej stronie](https://vakshare.github.io)
+## Znajdziesz mnie także tutaj
+- [Instagram]([https://www.instagram.com/bartosz__lukasik/])
+- [LinkedIn]([https://www.linkedin.com/in/bartosz-łukasik-10558a3b7/])
 
 ## Fun Fact
-- Hello there
+- [Hello there]([https://www.youtube.com/watch?v=mS41bHNw1WI])
   
 Dziękuję za odwiedzenie mojego profilu! 😊 Zachęcam do kontaktu i wspólnego tworzenia niesamowitych projektów.
