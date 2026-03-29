@@ -13,7 +13,7 @@
 - Olimpiada przedmiotowa: Polteleinfo - [Laureat]
 
 ## 📫 Kontakt
-- **E-mail**: [bartosz.lukasik350@gmail.com](mailto:bartosz.lukasik350@gmailcom)
+- **E-mail**: [bartosz.lukasik350@gmail.com](mailto🔤350@gmailcom)
 
 ## ✨ Zainteresowania
 - ❓ OSINT
@@ -29,6 +29,6 @@
 - [LinkedIn](https://www.linkedin.com/in/bartosz-łukasik-10558a3b7/)
 
 ## Fun Fact
-- [Hello there](https://www.youtube.com/watch?v=mS41bHNw1WI)
+- [Hello there](https://youtu.be/mS41bHNw1WI?si=UqZhQ9MBMoSmM1Xi&t=10)
   
 Dziękuję za odwiedzenie mojego profilu! 😊 Zachęcam do kontaktu i wspólnego tworzenia niesamowitych projektów.
